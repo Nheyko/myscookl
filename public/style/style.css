@@ -1,0 +1,44 @@
+main {
+    width: 70%;
+    margin: 30px auto;
+}
+
+.avatar {
+    width: 50px;
+}
+
+.bloc_avatar {
+    width: 220px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+main {
+    width: 1000px;
+}
+
+.alert {
+    position: absolute;
+    top: 90px;
+    left: 900px;
+}
+
+.form-check {
+    margin-bottom:20px;
+}
+
+.required-field {
+    color: red;
+}
+
+.margin-top {
+    margin-top: 20px;
+}
+
+.empty {
+    opacity: 0.33;
+}
